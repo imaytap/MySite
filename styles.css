@@ -1,0 +1,197 @@
+body{
+    justify-content: center;
+    align-items: center;
+}
+.nocontainer{
+    background-image: url(arka.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.ustalan a{
+    color: white;
+}
+
+a.navitem:hover{
+    color: white;
+}
+ #kimlik{
+    color: black;
+    margin-top: 300px;
+ }
+
+.unvan{
+    width: 200px;
+    color: #909090;
+    text-align: center;
+}
+#buttonsocial{
+    margin-top: 60px;
+    margin-bottom: 150px;
+}
+.firstalt{
+    text-align: center;
+    background-color: rgb(31, 31, 31);
+    color: white;
+}
+ #firstbuton{
+     margin-bottom: 15px;
+     margin-top: 15px;
+    background-color: transparent;
+    border: none;
+ }
+ .secondarypage{
+     background-image: url(about.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ .baslik{
+     text-align: center;
+     align-items: center;
+ }
+ #hakkimdabuton{
+     align-items: center;
+     text-align: center;
+     margin-bottom: 50px;
+     width: 300PX;
+     margin-top: 50px;
+     background-color: transparent;
+     color: black;
+ }
+ #kesfetbuton{
+    align-items: center;
+    text-align: center;
+    width: 200PX;
+    background-color: transparent;
+    color: black;
+ }
+ #yetenekbuton{
+    align-items: center;
+    text-align: center;
+    width: 250PX;
+    background-color: transparent;
+    color: black;
+ }
+ .fa-html5{
+    font-size: 200px !important;
+ }
+ .fa-css3-alt{
+    font-size: 200px !important;
+ }
+ .fa-sass{
+    font-size: 200px !important;
+ }
+ .fa-js{
+    font-size: 200px !important;
+ }
+ .fa-react{
+    font-size: 200px !important;
+ }
+ .fa-bootstrap{
+    font-size: 200px !important;
+ }
+ .fa-github-square{
+    font-size: 200px !important;
+ }
+ .fa-figma{
+    font-size: 200px !important;
+ }
+.yeteneks p{
+    border-radius: 8px;
+    border: 1px solid rgba(31, 31, 31,0.3);
+    margin-top: 50px;
+}
+#iletisimbuton{
+    align-items: center;
+    text-align: center;
+    width: 300PX;
+    background-color: transparent;
+    color: black;
+ }
+ .threepage{
+     background-image: url(contact.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+ }
+ .baslikthree{
+     text-align: center;
+     align-items: center;
+ }
+ .iletisimform{
+     border-radius: 50px;
+     margin-top: 50px;
+     margin-bottom: 50px;
+ }
+ 
+ .buttongon{
+     text-align: center;
+ }
+ 
+ .buttongon button{
+     width: 250px;
+     margin-top: 20px;
+     margin-bottom: 25px;
+    background-color: blueviolet !important;
+    border: none;
+ }
+ .footerss{
+     color: white;
+     background-color: black;
+ }
+ .basadon{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    align-items: center; 
+    text-align: center;
+ }
+ .socailiconn{
+     margin-top: 20px;
+     margin-bottom: 20px;
+     align-items: center;
+     text-align: center;
+ }
+ .imza{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    align-items: center;
+    text-align: center;
+ }
+ .buttonbas button{
+     width: 270px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+   background-color: blueviolet !important;
+   border: none;
+ }
+
+.fa-twitter{
+    font-size: 40px !important;
+}
+.fa-instagram{
+    font-size: 40px !important;
+}
+.fa-linkedin{
+    font-size: 40px !important;
+}
+.fa-envelope{
+    font-size: 40px !important;
+}
+.fa-github{
+    font-size: 40px !important;
+}
+.fab{
+    cursor: pointer !important;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a :hover{
+    color: rgba(51, 51, 51, 0.5);
+}
+.hover :hover{
+    color: white !important;
+    opacity: 1 !important;
+}
+.hover{
+    color: white !important; opacity: 0.5 !important;
+}
